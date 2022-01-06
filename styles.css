@@ -1,0 +1,165 @@
+body {
+  background: #f0f0f0;
+  font-family: "Poppins", sans-serif;
+}
+#missn {
+  color: rgba(145, 63, 251, 0.938);
+}
+h1 {
+  font-family: "Yeseva One", cursive;
+  font-size: 50px;
+}
+.heading {
+  border-left: 5px solid rgba(117, 16, 250, 0.938);
+  border-radius: 2px;
+  margin: 70px 80px;
+  text-indent: 1em;
+}
+.btn {
+  text-decoration: none;
+  background: linear-gradient(45deg, rgb(200, 105, 255), rgb(127, 47, 255));
+  color: rgb(255, 255, 255);
+  font-weight: 700;
+  padding: 10px 40px;
+  border-radius: 5px;
+}
+.up-half {
+  font-size: 18px;
+  width: 50%;
+  margin-left: 80px;
+}
+.up-half-img {
+  position: absolute;
+  width: 426px;
+  height: 510px;
+  left: 950px;
+  top: -40px;
+}
+#para {
+  margin: 40px 80px;
+}
+/* 1st half end */
+
+/* 2nd half start */
+.second-half {
+  height: 70vh;
+  margin-left: 80px;
+}
+.head2 {
+  margin-top: 70px;
+}
+.head2 h1 {
+  text-align: center;
+  font-size: 38px;
+}
+.head2 span {
+  color: rgba(145, 63, 251, 0.938);
+}
+.list {
+  display: flex;
+  position: absolute;
+}
+.mission {
+  width: 360px;
+  height: 340px;
+  background-color: rgba(42, 255, 4, 0.089);
+  border-radius: 5%;
+  padding: 2px 20px;
+  margin-right: 60px;
+}
+.mission img {
+  width: 141px;
+  height: 141px;
+}
+.vision {
+  width: 360px;
+  height: 340px;
+  background-color: rgba(255, 4, 213, 0.089);
+  border-radius: 5%;
+  padding: 2px 20px;
+  margin-right: 60px;
+}
+.vision img {
+  width: 141px;
+  height: 141px;
+}
+.goals {
+  width: 360px;
+  height: 340px;
+  background-color: rgba(4, 247, 255, 0.089);
+  border-radius: 5%;
+  padding: 2px 20px;
+}
+.goals img {
+  width: 141px;
+  height: 141px;
+}
+/* end of 2nd half */
+
+/* start of 3rd half */
+.third-half {
+  display: flex;
+  align-items: center;
+  margin-top: 40px;
+  margin-left: 80px;
+}
+.third-half img {
+  height: 60vh;
+
+  border-radius: 5%;
+  padding-right: 50px;
+}
+/* end of 3rd half */
+/* start of 4th half */
+.fourth-half {
+  display: flex;
+  align-items: center;
+  margin-top: 40px;
+  margin-left: 80px;
+}
+.fourth-half img {
+  height: 50vh;
+
+  border-radius: 5%;
+  padding-right: 100px;
+}
+/* end of 4th */
+
+/* footer */
+.end-part h1 {
+  font-family: "Lobster Two", cursive;
+  font-size: 36px;
+  color: #ffffff;
+  padding-top: 15px;
+}
+#foot {
+  color: rgba(145, 63, 251, 0.938);
+}
+.end-part {
+  background: rgb(15, 15, 15);
+  text-align: center;
+  height: 17vh;
+}
+.end-part p {
+  font-size: 14px;
+  color: #e4dedeb9;
+}
+/* start of extra */
+.form {
+  width: 340px;
+  height: 330px;
+  border-radius: 8px;
+  box-shadow: 0 0 40px -10px #000;
+  margin: 20vh auto;
+  padding: 20px 30px;
+  box-sizing: border-box;
+  position: relative;
+}
+input {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  background: none;
+  border: 0;
+  border-bottom: 1px solid #706e6e;
+}
